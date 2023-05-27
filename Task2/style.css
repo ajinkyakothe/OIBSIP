@@ -1,0 +1,69 @@
+
+
+
+.name{
+    justify-content: center;
+    margin-left: 34%;
+    margin-top: 7%;
+}
+
+.life{
+    justify-content: center;
+    margin-left: 45%;
+}
+
+
+
+.img1{
+ background-color: black;
+  margin-top: 3%;
+
+}
+
+
+.head{
+    background-color: black;
+    color: #fff;
+    justify-content: center;
+    width: 18%;
+    margin-left: 23%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+.info{
+    width:55%;
+    justify-content: center;
+    margin-left: 23%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.key{
+    margin-top: 4%;
+    justify-content: center;
+    width:55%;
+    margin-left: 23%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.key-head{
+    font-family: serif;
+    background-color: black;
+    color: #fff;
+    width: 35%;
+}
+
+
+
+
+
+
+.foot{
+    justify-content: left;
+    margin-left: 85%;
+}
+
+
+
